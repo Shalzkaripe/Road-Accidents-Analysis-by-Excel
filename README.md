@@ -19,7 +19,8 @@
 This project analyzes road traffic accident data using Excel to identify patterns and trends affecting road safety. It focuses on factors contributing to accidents and casualty rates, offering insights to guide preventive measures and improve traffic management. The goal is to highlight key areas for action to reduce accidents and enhance public safety.
 
 ## Data Sources
-The road traffic accidents dataset was obtained from Kaggle, offering detailed accident records for thorough analysis and insights.
+The road traffic accidents dataset was obtained from Kaggle, offering detailed accident records for thorough analysis and insights. 
+[Download data from here](https://www.kaggle.com/code/mohamedfaisvk/road-traffic-accidents-severity-classifier/input)
 
 ## Tools
 (Description here)
