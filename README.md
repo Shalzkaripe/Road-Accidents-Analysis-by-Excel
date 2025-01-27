@@ -20,6 +20,11 @@ This project analyzes road traffic accident data using Excel to identify pattern
 ## Data Sources
 
 The road traffic accidents dataset was obtained from Kaggle, offering detailed accident records for thorough analysis and insights. 
+
+File Ext - .xlsx
+No. of Rows - 3.07M
+No. of Fields - 21
+
 [Download data from here](https://www.kaggle.com/code/mohamedfaisvk/road-traffic-accidents-severity-classifier/input)
 
 ## Tools
