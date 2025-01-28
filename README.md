@@ -91,5 +91,5 @@ Check out the uploaded PDF for a visual representation of my project: Here
 This project provides a basic introduction to data analysis, focusing on simple insights derived using pivot tables. It does not include advanced analytical techniques, which limits the depth of the findings. The results are presented in a straightforward dashboard format, making it suitable for beginners but not for advanced analysis. 
 
 ## References
-Check out for a visual representation of my project: [My Project](https://mailmissouri-my.sharepoint.com/:x:/g/personal/sknhw_umsystem_edu/EVrQvRzcYjBClThVxmEdr_QBCG2hqpjA8PrdiCzotW2jXw?e=ALiumy)
+Check out for a visual representation of my project: [My Project](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=109131829012570108078&rtpof=true&sd=true)
 
