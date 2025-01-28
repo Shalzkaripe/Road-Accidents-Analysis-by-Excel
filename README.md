@@ -9,13 +9,16 @@
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
 - [Analysis Insights](#analysis-insights)
-- [Documentation](#documentation)
 - [Limitations](#limitations)
 - [References](#references)
 
 ## Project Overview
 
 This project analyzes road traffic accident data using Excel to identify patterns and trends affecting road safety. It focuses on factors contributing to accidents and casualty rates, offering insights to guide preventive measures and improve traffic management. The goal is to highlight key areas for action to reduce accidents and enhance public safety.
+
+
+![image](https://github.com/user-attachments/assets/d30c8505-64e3-4a7a-8577-d10c833f9b2f)
+
 
 ## Data Sources
 
@@ -38,7 +41,6 @@ The following steps were completed during data preparation:
 1. **Data Loading and Inspection**  
 2. **Fixing Missing, Duplicate, and Incorrect Values**  
 3. **Data Cleaning and Formatting**  
-   - Selected 12 key columns from the original 32 to focus on important insights.  
    - Created a new worksheet to streamline analysis and reduce file size.  
    - Simplified the dataset for this personal project by using only the necessary columns.  
    - The full dataset with all original columns is available if needed.  
@@ -48,13 +50,11 @@ The following steps were completed during data preparation:
 Pivot tables and pivot charts in Excel were used to analyze the road traffic accident data. These tools helped to identify key patterns and insights, such as trends in casualties and factors influencing accidents.
 
 **Analysis Focus Areas:**  
-- Total casualties  
-- Daytime effects  
-- Age of casualties  
+- Total casualties    
 - Weather conditions  
 - Road surface conditions  
-- Casualties distribution by weekdays  
-- Number of vehicles involved with casualties  
+- Casualties distribution by year 
+- Vehicle types involved with casualties  
 
 ## Data Visualization
 
@@ -63,28 +63,23 @@ An interactive dashboard was created in Excel to summarize the key insights from
 ## Analysis Insights
 
 1. **Total Casualties**  
-   - The total number of casualties identified was 6,902, with notable trends and patterns observed.  
+   - The total number of casualties identified was 4,17883 with notable trends and patterns observed.  
 
-2. **Casualties Distribution by Weekdays**  
-   - Higher incidents were recorded on weekends compared to weekdays.  
+2. **Casualties Distribution by Urban/ Rural**  
+   - Higher incidents were recorded on Urban compared to Rural.  
 
 3. **Number of Vehicles Involved**  
-   - Most accidents involved two vehicles, highlighting a strong relationship between vehicle count and casualty severity.  
+   - Most accidents involved Cars, highlighting a strong relationship between vehicle count and casualty severity.  
 
-4. **Age of Casualties**  
-   - The most affected age group was between 31-50 years.  
 
-5. **Road Surface Conditions**  
+4. **Road Surface Conditions**  
    - Dry roads had the highest accident rates, indicating surface conditions as a key factor.  
 
-6. **Weather Conditions**  
-   - The majority of accidents occurred under normal weather conditions, with a significant proportion involving females.  
 
-7. **Daytime Effects**  
+5. **Daytime Effects**  
    - Most accidents happened during daylight hours, reflecting the impact of daytime conditions on road safety.  
 
-## Documentation
-Check out the uploaded PDF for a visual representation of my project: Here
+
 
 ## Limitations
 
