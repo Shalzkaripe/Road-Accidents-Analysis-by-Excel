@@ -89,3 +89,7 @@ Check out the uploaded PDF for a visual representation of my project: Here
 ## Limitations
 
 This project provides a basic introduction to data analysis, focusing on simple insights derived using pivot tables. It does not include advanced analytical techniques, which limits the depth of the findings. The results are presented in a straightforward dashboard format, making it suitable for beginners but not for advanced analysis. 
+
+## References
+Check out for a visual representation of my project: [My Project](/Users/shalinikaripe/Desktop/Excel Projects/Road Accident Data.xlsx)
+
